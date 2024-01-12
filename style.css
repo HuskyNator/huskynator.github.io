@@ -119,6 +119,7 @@ main {
 
 .wrap_bubbles img {
 	width: 100%;
+	align-self: center;
 }
 
 .wrap_bubbles figcaption {
